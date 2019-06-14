@@ -1,6 +1,6 @@
-# Gantt Chart
+# Crypto Trading Bot
 
-Gantt Chart to plot FSSP (Flow Shop Scheduling Problem) where  machines can not work on more than one process simultaneously.
+Fast trading bot made in python for Binance exchange
 
 ## Packages used: 
 - ta
