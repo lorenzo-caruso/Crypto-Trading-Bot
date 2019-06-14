@@ -1,0 +1,8 @@
+ta
+python-binance
+numpy
+pandas
+time
+json
+sklearn
+xlsxwriter
